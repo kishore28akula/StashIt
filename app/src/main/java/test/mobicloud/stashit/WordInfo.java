@@ -21,6 +21,7 @@ public class WordInfo extends AppCompatActivity {
             " feeling like you have to turn your life inside out to make changes ,Good nice things.";
     ArrayList<String> mylist;
     SpannableString ss3,ss1,ss2;
+    // checking github sample information.....
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
