@@ -22,6 +22,7 @@ public class WordInfo extends AppCompatActivity {
     ArrayList<String> mylist;
     SpannableString ss3,ss1,ss2;
     // checking github sample information.....
+    TextView tv;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
